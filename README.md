@@ -36,12 +36,12 @@ from sklearn.metrics import r2_score, mean_squared_error
 
 The repository is composed of:
 ### Datasets
-In the Florence folder you can see both the sample and the full csvs
+In the Florence folder you can see both the sample and the full csvs containing listings information.
 
 ### Data dictionary
 Detailing the dataset content
 
-### Exploration Jupyter Notebooks
+### 1 Exploration Jupyter Notebook
 Data_exploration.ipynb is a notebook used during the concetption of the project for tests & development purposes
 
 ### 3 Questions Notebooks
