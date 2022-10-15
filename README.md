@@ -13,6 +13,12 @@ The project is splitted in 3 topics, trying to give an answer to the following q
 - What are the typical prices for airbnb properties ?
 - What are the top criteria linked to pricing your property ? (using ML)
 
+### Blog
+
+The project is linked to a blog post, available here:
+
+YYYY
+
 ## Installations
 
 The code is 100% python based, written in different notebooks.
