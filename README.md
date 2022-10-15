@@ -70,3 +70,6 @@ Here are the main links:
 - "San Francisco Model" used for and Occupancy rate : http://insideairbnb.com/data-assumptions/
 - Data Dictionary: https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit#gid=1322284596
 - Top 10 Amenities at Airbnb : https://www.airbnb.com/resources/hosting-homes/a/the-amenities-guests-want-25
+- Data Exploration techniques: https://www.kaggle.com/code/pmarcelino/comprehensive-data-exploration-with-python
+- Guide to Data Explroation: https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/
+- 
