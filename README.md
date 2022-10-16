@@ -17,7 +17,7 @@ The project is splitted in 3 topics, trying to give an answer to the following q
 
 The project is linked to a blog post, available here:
 
-YYYY
+https://medium.com/@aliaume64/what-would-your-property-be-worth-on-airbnb-c3430d9ac93c
 
 ## Installations
 
