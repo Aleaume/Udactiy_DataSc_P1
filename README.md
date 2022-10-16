@@ -72,4 +72,3 @@ Here are the main links:
 - Top 10 Amenities at Airbnb : https://www.airbnb.com/resources/hosting-homes/a/the-amenities-guests-want-25
 - Data Exploration techniques: https://www.kaggle.com/code/pmarcelino/comprehensive-data-exploration-with-python
 - Guide to Data Explroation: https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/
-- 
